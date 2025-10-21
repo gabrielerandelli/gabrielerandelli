@@ -3,7 +3,9 @@
 👩🏻‍💻 I’m an AI Customer Engineer @google\
 👩🏻‍🎓 PhD in Artificial Intelligence & Robotics at Sapienza University of Rome, Italy\
 💬 Ask me about Google Cloud AI technologies\
-🌱 I’m currently learning new cool stuff about Generative AI\
+🌱 I’m currently learning new cool stuff about Generative AI
+
+[![Gabriele's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielerandelli&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gabrielerandelli/gabrielerandelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
