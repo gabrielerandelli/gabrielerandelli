@@ -1,5 +1,8 @@
 name: Update README cards
 
+permissions:
+  contents: write  # This allows the bot to push code/files back to the repo
+
 on:
   schedule:
     - cron: "0 3 * * *"
